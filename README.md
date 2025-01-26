@@ -26,6 +26,6 @@
 * "example.docx"  
 вывод будет следующим:  
 
-![img](https://github.com/monksbarn/recusive-page-counting/blob/master/src/screenshot.png)
+![img](https://github.com/monksbarn/vba-ms-word-doc-page-counting/blob/main/src/screenshot.png)
 
 т.е. в папке только один документ MS Word во вложенной директории src, в котором три страницы
